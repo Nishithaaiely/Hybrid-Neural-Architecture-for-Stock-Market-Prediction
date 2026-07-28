@@ -10,49 +10,49 @@ The project follows a complete deep learning pipeline including data preprocessi
 
 # Features
 
-Hybrid CNN-RNN deep learning architecture
+Hybrid CNN-RNN deep learning architecture,
 
-Historical stock market data preprocessing
+Historical stock market data preprocessing,
 
-Automatic feature extraction using CNN
+Automatic feature extraction using CNN,
 
-Sequential pattern learning using RNN
+Sequential pattern learning using RNN,
 
-Time-series forecasting
+Time-series forecasting,
 
-Model training and validation
+Model training and validation,
 
-Performance evaluation using regression metrics
+Performance evaluation using regression metrics,
 
-Visualization of actual vs. predicted stock prices
+Visualization of actual vs. predicted stock prices,
 
-Modular and scalable Python implementation
+Modular and scalable Python implementation.
 
 # Tech Stack
 
-Python
+Python,
 
-TensorFlow / Keras
+TensorFlow / Keras,
 
-NumPy
+NumPy,
 
-Pandas
+Pandas,
 
-Scikit-learn
+Scikit-learn,
 
-Matplotlib
+Matplotlib,
 
-Jupyter Notebook
+Jupyter Notebook.
 
 # Model Architecture
 
-Historical Stock Data
+Historical Stock Data->
 
-          │
+          |
           
           ▼
           
-Data Preprocessing
+Data Preprocessing->
 
           │
           
@@ -60,7 +60,7 @@ Data Preprocessing
           
 Convolutional Neural Network (CNN)
 
-(Local Feature Extraction)
+(Local Feature Extraction)->
 
           │
           
@@ -68,74 +68,74 @@ Convolutional Neural Network (CNN)
           
 Recurrent Neural Network (RNN)
 
-(Sequential Learning)
+(Sequential Learning)->
 
           │
           
           ▼
           
-Dense Layers
+Dense Layers->
 
           │
           
           ▼
           
-Stock Price Prediction
+Stock Price Prediction.
 
 # Applications
 
-Stock Price Prediction
+Stock Price Prediction,
 
-Financial Time-Series Forecasting
+Financial Time-Series Forecasting,
 
-Investment Decision Support
+Investment Decision Support,
 
-Quantitative Finance Research
+Quantitative Finance Research,
 
-AI-Based Financial Analytics
+AI-Based Financial Analytics,
 
 # Future Enhancements
 
-Integrate LSTM or GRU units for improved long-term dependency learning
+Integrate LSTM or GRU units for improved long-term dependency learning,
 
-Incorporate technical indicators (RSI, MACD, Bollinger Bands)
+Incorporate technical indicators (RSI, MACD, Bollinger Bands),
 
-Add sentiment analysis from financial news and social media
+Add sentiment analysis from financial news and social media,
 
-Enable real-time prediction using live market APIs
+Enable real-time prediction using live market APIs,
 
-Deploy as a Streamlit or Flask web application
+Deploy as a Streamlit or Flask web application,
 
-Hyperparameter optimization using Optuna or Keras Tuner
+Hyperparameter optimization using Optuna or Keras Tuner,
 
 # GitHub Topics
 
-python
+- python
 
-deep-learning
+- deep-learning
 
-cnn
+- cnn
 
-rnn
+- rnn
 
-tensorflow
+- tensorflow
 
-keras
+- keras
 
-stock-market
+- stock-market
 
-stock-price-prediction
+- stock-price-prediction
 
-time-series
+- time-series
 
-financial-forecasting
+- financial-forecasting
 
-artificial-intelligence
+- artificial-intelligence
 
-machine-learning
+- machine-learning
 
-predictive-analytics
+- predictive-analytics
 
-data-science
+- data-science
 
-neural-network
+- neural-network
